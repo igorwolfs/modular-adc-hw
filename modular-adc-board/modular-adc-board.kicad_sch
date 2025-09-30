@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3e298956-65b1-40d9-b81f-ffb699dde4c7")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 113.538 71.882)
+		(size 30.48 38.354)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a51e39ee-5b36-4714-b2d8-68bae2cbbcbe")
+		(property "Sheetname" "analog-frontend"
+			(at 113.538 71.1704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "analog-frontend.kicad_sch"
+			(at 113.538 110.8206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "modular-adc-board"
+				(path "/3e298956-65b1-40d9-b81f-ffb699dde4c7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
