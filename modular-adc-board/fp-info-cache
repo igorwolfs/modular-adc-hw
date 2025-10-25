@@ -1,4 +1,4 @@
-26208858948013289
+26212377548804734
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104194,6 +104194,20 @@ BWU.FL-IPEX1
 0
 3
 2
+iw-connector
+Hirose_BM28-BM28B0.6-30DP-2-0.35V_2x10_P0.35mm_PowerPin2_Vertical
+Hirose BM28 series connector, BM28B0.6-30DP/2-0.35V (https://www.hirose.com/en/product/document?clcode=&productname=&series=BM28&documenttype=Catalog&lang=en&documentid=D143865_en)
+connector Hirose  BM28 30pin header vertical
+0
+34
+32
+iw-connector
+Hirose_BM28-BM28B0.6-30DS-2-0.35V_2x10_P0.35mm_PowerPin2_Vertical
+Hirose BM28 series connector, BM28B0.6-30DS/2-0.35V (https://www.hirose.com/en/product/document?clcode=&productname=&series=BM28&documenttype=Catalog&lang=en&documentid=D143865_en)
+connector Hirose BM28 30pin receptacle vertical
+0
+34
+32
 iw-connector
 PMOD_Pinsocket
 Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
